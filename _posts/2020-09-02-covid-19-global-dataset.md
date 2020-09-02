@@ -24,8 +24,6 @@ abstract: This openly-licensed research-ready dataset consolidates country-level
   metadata for up to 170 countries.
 ---
 
-<button name="button"><a href="https://github.com/rs-delve/covid19_datasets/"><i class="fab fa-github"></i> View on Github</a></button>
-<button name="button"><a href="https://raw.githubusercontent.com/rs-delve/covid19_datasets/master/dataset/combined_dataset_latest.csv"><i class="fas fa-download"></i> Download CSV</a></button>
 
 
 ## Introduction
