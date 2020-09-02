@@ -1,7 +1,7 @@
 ---
 title: DELVE Global COVID-19 Dataset
 date: 2020-09-02
-layout: datasets
+layout: dataset
 authors:
 - given: Aviskar
   family: Bhoopchand
