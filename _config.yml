@@ -1,0 +1,55 @@
+---
+booktitle: Datasets of Machine Learning Research
+shortname: DMLR
+volume: 1
+url: http://datasets.mlr.press
+location: Virtual
+layout: datasets
+series: Datasets of Machine Learning Research
+publisher: DMLR
+issn: 
+month: 0
+cycles: false
+bibtex_editor: Guyon, Isabelle and Lawrence, Neil D. 
+editor:
+- given: Isabelle
+  family: Guyon
+- given: Neil D.
+  family: Lawrence
+title: Datasets of Machine Learning Research
+description: |
+  Datasets of Machine Learning Research Volume 1
+
+  Editors:
+    Isabelle Guyon
+    Neil D. Lawrence
+author:
+  name: DMLR
+baseurl: "/v1"
+twitter_username: MLResearchPress
+github_username: mlr-datasets
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: dmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v1
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+analytics:
+  google:
+    tracking_id: UA-92432422-1
