@@ -36,6 +36,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: mlr-datasets/jekyll-theme
+style: pmlr
 permalink: "/:title.html"
 ghub:
   edit: true
