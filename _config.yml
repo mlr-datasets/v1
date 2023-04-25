@@ -1,9 +1,9 @@
 ---
-booktitle: Datasets of Machine Learning Research
+booktitle: Data of Machine Learning Research
 shortname: DMLR
 volume: 1
-url: http://datasets.mlr.press
-series: Datasets of Machine Learning Research
+url: http://data.mlr.press
+series: Data for Machine Learning Research
 publisher: DMLR
 issn: 
 month: 0
@@ -16,7 +16,7 @@ editor:
   family: Lawrence
 title: Datasets of Machine Learning Research
 description: |
-  Datasets of Machine Learning Research Volume 1
+  Data of Machine Learning Research Volume 1
 
   Series Editors:
     Isabelle Guyon
@@ -35,8 +35,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
-style: dmlr
+remote_theme: mlr-datasets/jekyll-theme
 permalink: "/:title.html"
 ghub:
   edit: true
